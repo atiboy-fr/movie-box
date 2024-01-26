@@ -11,4 +11,5 @@ function Home({handleFilterChange, movies}) {
   )
 }
 
+
 export default Home
